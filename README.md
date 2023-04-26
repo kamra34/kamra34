@@ -22,7 +22,7 @@
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamra34&show_icons=true&theme=radical)](https://github.com/kamra34/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamra34&layout=compact)](https://github.com/kamra34/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamra34)](https://github.com/kamra34?tab=repositories)
 
 ## 📫 Connect with me
 
