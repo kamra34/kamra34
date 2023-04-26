@@ -1,5 +1,4 @@
-![Header Image](./header.png)
-<img src="./header.png" alt="Header Image" width="your-desired-width" />
+<img src="./header.png" alt="Header Image" width="800" />
 
 # Hi there, I'm Kamiar 👋
 
