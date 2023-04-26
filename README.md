@@ -1,6 +1,6 @@
-![Header Image](header-image-url)
+![Header Image](./header.png)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kamiar 👋
 
 - 🎓 I'm a Senior Data Scientist, with a background in Electrical Engineering.
 - 🔭 I'm currently working on NLP based telecom log analysis, Visualization dashboards using Tableau, Grafanna, and Power BI, Time series analysis for KPI analysis, Changepoint Detection, Statistical Analysis for automated performance verdict, data pipelining, and containerization.
