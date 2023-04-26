@@ -1,4 +1,4 @@
-<img src="./header.png" alt="Header Image" width="800" />
+<img src="./header.png" alt="Header Image" width="1600" />
 
 # Hi there, I'm Kamiar 👋
 
