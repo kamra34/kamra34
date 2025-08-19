@@ -16,8 +16,6 @@ Lately: leading LLM + contract intelligence at scale, and mentoring teams to shi
 - **Log Intelligence** – NLP for noisy device logs; boosts recall@k for similar-issue retrieval.
 - **Performance Dashboards** – Grafana/Power BI/Tableau for test managers; faster detection of regressions and clearer weekly reviews.
 
-> Repos/papers: _Pin relevant repos here_ (e.g., `contract-rag-demo`, `telecom-log-nlp`, `test-prioritization`, `mlops-cookiecutter`)
-
 ---
 
 ## 🛠️ Stack (pragmatic, not exhaustive)
@@ -41,8 +39,7 @@ Lately: leading LLM + contract intelligence at scale, and mentoring teams to shi
 
 ## 🤝 Let’s connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamiarradnosrati/)
-- ✉️ your.email@domain.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamiarradnosrati/)
 
 
 
@@ -54,7 +51,4 @@ Lately: leading LLM + contract intelligence at scale, and mentoring teams to shi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamra34&layout=compact&theme=radical&exclude=Mathematica,TeX,MATLAB)](https://github.com/kamra34/github-readme-stats)
 
 
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamiarradnosrati/)
 
