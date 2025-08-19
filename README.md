@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kamiar — Lead Data Scientist
+# 👋 Hi, I’m Kamiar
 
 I build data and ML systems that turn messy, real-world problems into working products.  
 Lately: leading LLM + contract intelligence at scale, and mentoring teams to ship reliably.
