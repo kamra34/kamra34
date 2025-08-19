@@ -1,20 +1,49 @@
-# Hi there
+# 👋 Hi, I’m Kamiar — Lead Data Scientist
 
-- 🎓 I'm a Senior Data Scientist, with a background in Electrical Engineering.
-- 🔭 I'm currently working on NLP based telecom log analysis, Visualization dashboards using Tableau, Grafanna, and Power BI, Time series analysis for KPI analysis, Changepoint Detection, Statistical Analysis for automated performance verdict, data pipelining, and containerization.
-- 🌱 I'm learning Cloud Engineering.
-- 💬 Ask me about research and development in Statistical modelling, Analytics, ML development and we can discuss over a beer :)
+I build data and ML systems that turn messy, real-world problems into working products.  
+Lately: leading LLM + contract intelligence at scale, and mentoring teams to ship reliably.
 
-## 🛠️ Technologies & Tools
+- 🔭 Current focus: LLM-powered contract insights (RAG on AWS), telemetry analytics for telecom, and pragmatic MLOps.
+- 🧭 What I enjoy: clear problem framing, simple baselines before fancy models, and helping teams grow.
+- 📍 Stockholm · Hybrid
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+---
+
+## 🔎 Selected Projects
+
+- **Digital Contract Insights (LLM/RAG, AWS)** – end-to-end pipeline that extracts key terms and summaries from multi-doc agreements; enables search, analytics, and review.
+- **Test Case Prioritization (Telecom)** – scoring framework to pick “next best” tests; improved lab throughput and reduced time-to-signal.
+- **Log Intelligence** – NLP for noisy device logs; boosts recall@k for similar-issue retrieval.
+- **Performance Dashboards** – Grafana/Power BI/Tableau for test managers; faster detection of regressions and clearer weekly reviews.
+
+> Repos/papers: _Pin relevant repos here_ (e.g., `contract-rag-demo`, `telecom-log-nlp`, `test-prioritization`, `mlops-cookiecutter`)
+
+---
+
+## 🛠️ Stack (pragmatic, not exhaustive)
+
+**Languages:** Python, R, SQL  
+**ML/LLM:** PyTorch, scikit-learn, Hugging Face, LangChain / LlamaIndex  
+**Data & MLOps:** Pandas, Spark, Airflow, Docker, Kubernetes  
+**Cloud:** AWS (SageMaker, Lambda, S3, ECS), bits of GCP  
+**Viz:** Power BI, Grafana, Tableau
+
+---
+
+## 📚 Notes & Principles
+
+- Start simple → measure → iterate.
+- Make data/metrics visible; dashboards are part of the product.
+- Favor maintainable code over clever code.
+- If it isn’t monitored, it doesn’t exist.
+
+---
+
+## 🤝 Let’s connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamiarradnosrati/)
+- ✉️ your.email@domain.com
+
 
 
 <!--## 📊 GitHub Stats-->
