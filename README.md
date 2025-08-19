@@ -39,7 +39,7 @@ Lately: leading LLM + contract intelligence at scale, and mentoring teams to shi
 
 ## 🤝 Let’s connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamiarradnosrati/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamiarradnosrati/)
 
 
 
